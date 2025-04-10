@@ -11,3 +11,5 @@
 
 ![Stitched 1](https://github.com/ykamoji/Image-stitching/blob/main/img_refs/stitched_1.png?raw=true)
 ![Stitched 2](https://github.com/ykamoji/Image-stitching/blob/main/img_refs/stitched_2.png?raw=true)
+![Stitched 3](https://github.com/ykamoji/Image-stitching/blob/main/img_refs/stitched_3.png?raw=true)
+![Stitched 4](https://github.com/ykamoji/Image-stitching/blob/main/img_refs/stitched_4.png?raw=true)
